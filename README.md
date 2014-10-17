@@ -22,3 +22,5 @@ http://karaf.apache.org/manual/latest/users-guide/provisioning.html
 Camel:
 
 http://camel.apache.org/tutorials.html
+
+http://saltnlight5.blogspot.com/2013/08/getting-started-with-apache-camel-using.html
